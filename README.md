@@ -9,10 +9,13 @@ Evade é um conjunto de ferramentas para Termux, incluindo:
 No Termux, execute:  
 ```bash
 pkg update && pkg upgrade -y
+
 pkg install git -y
+
 git clone https://github.com/Dragonmodder7/Evade.git
-cd Evade
+
+cd evade
+
 chmod +x evade.sh
+
 ./evade.sh
-cd Evade
-bash Evade.sh

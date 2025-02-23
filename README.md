@@ -12,4 +12,4 @@ pkg update && pkg upgrade -y
 pkg install git -y
 git clone https://github.com/Dragonmodder7/Evade.git
 cd Evade
-bash install.sh
+bash Evade.sh

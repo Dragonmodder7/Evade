@@ -10,6 +10,6 @@ No Termux, execute:
 ```bash
 pkg update && pkg upgrade -y
 pkg install git -y
-git clone https://github.com/SEU_USUARIO/Evade.git
+git clone https://github.com/Dragonmodder7/Evade.git
 cd Evade
 bash install.sh
